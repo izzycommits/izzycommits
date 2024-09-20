@@ -14,10 +14,10 @@ const izzy = {
   code: [Python, Javascript, Typescript, HTML, CSS], 
   tools: [React, Node, Docker],
   fun: {
-                       books: "Sci-fy",
-                        art: "Watercolor",
-                        music: "All"
-                      },
+    books: "Sci-fy",
+    art: "Watercolor",
+    music: "All"
+  },
 }
 ```
 
